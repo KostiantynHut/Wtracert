@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wtracert", "kursach\Wtracert.csproj", "{A2321CDB-9229-4925-9D56-DB09A8161FDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wtracert", "wtracert\Wtracert.csproj", "{A2321CDB-9229-4925-9D56-DB09A8161FDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

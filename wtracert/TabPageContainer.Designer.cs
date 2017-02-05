@@ -104,7 +104,7 @@
             // button3
             // 
             this.button3.Enabled = false;
-            this.button3.Image = global::kursach.Properties.Resources.stop;
+            this.button3.Image = global::Wtracert.Properties.Resources.stop;
             this.button3.Location = new System.Drawing.Point(82, 2);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(35, 35);
@@ -115,7 +115,7 @@
             // button2
             // 
             this.button2.Enabled = false;
-            this.button2.Image = global::kursach.Properties.Resources.pause;
+            this.button2.Image = global::Wtracert.Properties.Resources.pause;
             this.button2.Location = new System.Drawing.Point(42, 2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(35, 35);
@@ -125,7 +125,7 @@
             // 
             // button1
             // 
-            this.button1.Image = global::kursach.Properties.Resources.play;
+            this.button1.Image = global::Wtracert.Properties.Resources.play;
             this.button1.Location = new System.Drawing.Point(2, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(35, 35);
